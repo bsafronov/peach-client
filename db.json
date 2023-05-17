@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "bogdasafronov@gmail.com",
+      "password": "$2a$10$QjcKMviQbqkMMqGhC9q/Se3B0It.LK.kF6EfqWIye0mfFP4tOSNG.",
+      "username": "bogdasafronov",
+      "firstName": "Богдан",
+      "lastName": "Сафронов",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "title": "Заголовок 1",
+      "description": "Описание 1",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "123",
+      "description": "12312312",
+      "userId": 1,
+      "timestamp": 1683964237609,
+      "id": 2
+    }
+  ]
+}
